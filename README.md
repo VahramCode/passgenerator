@@ -7,7 +7,8 @@ Features
  * Special Characters Inclusion: Choose whether to include special characters (e.g., !@#$%^&*()) in your password.
  * Digit Inclusion: Decide if you want to incorporate numbers (0-9) into your password.
  * Random Generation: Utilizes Python's random module to ensure truly random and unpredictable password combinations.
-How to Use
+How to Use ? :
+ * clone the repository ( git clone https://github.com/VahramCode/passgenerator.git ) 
  * Run the script:
    python password.py
 
